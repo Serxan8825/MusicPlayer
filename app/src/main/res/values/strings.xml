@@ -1,0 +1,4 @@
+<resources>
+    <!-- Tətbiqin adı (Android sistemində və bildirişlərdə görünür) -->
+    <string name="app_name">Musiqi Oxuducu</string>
+</resources>
